@@ -1,0 +1,12 @@
+{
+  "name": "k12study-proxy-backend",
+  "version": "1.0.0",
+  "description": "K-12 Study backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
